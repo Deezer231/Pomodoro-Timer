@@ -2,6 +2,7 @@ GITHUB PAGES LINK -
 https://deezer231.github.io/Pomodoro-Timer/
 
 (set to 70 secs top show difference when less than 1 min (resets to 25 mins))
+
 Lab 1 for CS230
 
 ## Objective
