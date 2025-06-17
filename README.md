@@ -12,7 +12,7 @@ Lab 1 for CS230
 
 ## Task Description
 
-The tasks outlined below provide detailed steps and requirements to guide you through completing the assignment.
+The tasks outlined below provide detailed steps and requirements to guide you through my project.
 
 ### Task 1: HTML (Hypertext Markup Language) 
 
